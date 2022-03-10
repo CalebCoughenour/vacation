@@ -2,6 +2,9 @@
   text-align: center;
 }
 
-.left img {
+img {
   float: left;
+  border: solid;
+  margin: auto;
+  margin-right: 8px;
 }
