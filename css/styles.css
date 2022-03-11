@@ -47,3 +47,7 @@ img {
 .larger {
   font-size: larger;
 }
+
+.bg-success {
+  width: 38%;
+}
